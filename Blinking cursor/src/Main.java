@@ -25,6 +25,7 @@ public class Main {
                 }
             }
         });
+        //
         timer.start();
 
         frame.setVisible(true);
